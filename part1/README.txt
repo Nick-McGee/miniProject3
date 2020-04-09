@@ -1,15 +1,16 @@
 Created by Nicholas McGee.
 
 Compilation Instructions
-
 Run in the terminal:
 gcc -o memManage memManage.c
 ./memManage
 
 
-This program does not take any command line arguements or user input, just a valid memAdr.txt file in the same directory.
+NOTE: This program does not take any command line arguements or user input, just a valid memAdr.txt file in the same directory.
 
 
+
+Description
 This program reads the file as such:
     1) n - the n lowest significant bits that represent the offset
     2) m - the next m bits that represent the page number; assume that n+m is always 16 
