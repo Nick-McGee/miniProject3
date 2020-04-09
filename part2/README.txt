@@ -1,8 +1,5 @@
 Created by Raghav and Carlos
 
-Compilation Instructions
-
-
 Description
 This program reads a txt file as such:
 - Reads each line and splits each string by spaces (the first line reads the file created by the create_fs)
