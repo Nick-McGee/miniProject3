@@ -1,0 +1,17 @@
+This is the example output of memAdr.txt
+
+Virtual Address 1 is in page number 0 and offset 1
+Virtual Address 2 is in page number 0 and offset 2
+Virtual Address 3 is in page number 0 and offset 3
+Virtual Address 4 is in page number 0 and offset 4
+Virtual Address 5 is in page number 0 and offset 5
+Virtual Address 16 is in page number 0 and offset 16
+Virtual Address 32 is in page number 0 and offset 32
+Virtual Address 64 is in page number 0 and offset 64
+Virtual Address 128 is in page number 0 and offset 128
+Virtual Address 255 is in page number 0 and offset 255
+Virtual Address 256 is in page number 1 and offset 0
+Virtual Address 511 is in page number 1 and offset 255
+Virtual Address 512 is in page number 2 and offset 0
+Virtual Address 1024 is in page number 4 and offset 0
+Virtual Address 2056 is in page number 8 and offset 8
